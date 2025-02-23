@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "trading-api",
+      "source": "@trading-api/v2.0.0#1slf23m7ditxd8",
+      "integrity": "sha512-REH6HJfxkNsLfhR6i24UwznYU3f5ylgYsn1rFDhEY/q2qt5jVWg10dgPN1gdqbfGOFS1b1nAb4K0dHllpYNrzw==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
